@@ -14,7 +14,7 @@ Este proyecto es una aplicación Java para gestionar libros y autores de literat
 
 - Java 11 o superior
 - Maven
-- Una base de datos compatible con JPA (por ejemplo, MySQL, PostgreSQL)
+- Una base de datos compatible con JPA ( PostgreSQL)
 
 Estructura del proyecto
 - ** client/LiteratureManager.java: Clase principal que maneja el menú y las interacciones del usuario.
